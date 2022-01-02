@@ -1,1 +1,2 @@
 # On-the-relationship-between-artificial-intelligence-and-social-progress-from-the-perspective-of-math
+This paper aims to make an objective and comprehensive critical analysis of the relationship between artificial intelligence and social progress, combined with the principles of social philosophy and the mathematical principles behind artificial intelligence, in order to deepen the understanding of the profound relationship between artificial intelligence technology and human social progress.
